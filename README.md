@@ -7,7 +7,7 @@ This modification bypasses the need to press buttons, allowing the player to aut
 
 ## Demo (Video)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/wNKedTx8txo/0.jpg)](http://www.youtube.com/watch?v=wNKedTx8txo "One Finger Death Punsh auto player hack speed round")
+https://github.com/Meloweh/OFDP-Auto-Player-Mod/assets/49780209/a3ece85f-6bf6-4f39-8547-bdb336aeba89
 
 ## Languages
 x86 inline assembly in debugger cheat engine
